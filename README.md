@@ -8,6 +8,12 @@ Chat app is a Full Stack Chatting App.
 
 **Server:** Node JS, Express JS
 
+## Deployment
+
+**Backend :** [Backend_Link](https://funny-sandy-cause.glitch.me) Deployed on glitch
+
+<!-- **Frontend:** [Frontend_Link] -->
+
 ## Run Locally
 
 Clone the project
