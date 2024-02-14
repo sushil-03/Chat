@@ -7,12 +7,7 @@
       "use": "@vercel/node"
     }
   ],
-  "routes": [
-    {
-      "src": "/(.*)",
-      "dest": "backend/server.js"
-    }
-  ],
+
   "headers": [
     {
       "source": "/api/(.*)",
