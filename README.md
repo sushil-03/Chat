@@ -12,7 +12,7 @@ Chat app is a Full Stack Chatting App.
 
 **Backend :** [Backend_Link](https://funny-sandy-cause.glitch.me) Deployed on glitch
 
-<!-- **Frontend:** [Frontend_Link] -->
+**Frontend:** [Frontend_Link](https://chat-two-henna.vercel.app/) Deployed on vercel
 
 ## Run Locally
 
