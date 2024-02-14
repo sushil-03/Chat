@@ -67,7 +67,7 @@ function Chat() {
     };
   }, [messages, socket]);
   return (
-    <div className="w-4/5 min-h-screen mx-auto  md:pt-20 pt-10 ">
+    <div className="sm:w-4/5 w-11/12 min-h-screen mx-auto  md:pt-20 pt-16 ">
       <div className="flex  h-full flex-col  bg-zinc-900  rounded-lg">
         <div className=" h-[600px]       flex flex-col">
           {/* header */}
@@ -85,7 +85,7 @@ function Chat() {
                 <p className="text-zinc-400">last seen recently</p>
               </div>
             </div>
-            <div className="flex gap-5 pr-4 p-4">
+            <div className=" gap-5 pr-4 p-4 md:flex hidden">
               <div className="p-3 rounded-full hover:bg-zinc-700 transition-all ease-in-out duration-500 cursor-pointer">
                 <IoMdCall size={24} className=" " />
               </div>
